@@ -1,0 +1,12 @@
+context_from_old_repo/
+__pycache__/
+.venv/
+.idea/
+.DS_Store
+*.pyc
+
+# Local Artifacts
+artifacts/
+
+# Private Logic
+src/treatments/fet/selective_modified_natural.py
